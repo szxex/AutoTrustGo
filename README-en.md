@@ -9,9 +9,6 @@ AutoTrustGO is a custom optimizer designed to
 while **preventing overfitting, instability, and “AI-like” artifacts**
 commonly seen in LoRA training.
 
-Version **v0.9** is the **final stable release**,
-with all internal logic unified and validated.
-
 ---
 
 ## Key Features
@@ -124,7 +121,5 @@ This optimizer was created using AI. However, we do not rely solely on AI; we co
 Therefore, while the copyright status is somewhat ambiguous, you are generally free to modify or create derivatives. We welcome improvements.
 (As long as you don't outright plagiarize it or claim it as your own original idea after just borrowing the concept.)
 ※This text alone was written in Japanese by a human.
-
-Translated with DeepL.com (free version)
 
 ---
